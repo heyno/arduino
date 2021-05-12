@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LCD320240_4WSPI	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+defaultConfigure	KEYWORD2
+startup	KEYWORD2
+getCharInfo	KEYWORD2
+clearDisplay	KEYWORD2
+setWindowDefaults	KEYWORD2
+setBacklight	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+_HYPERDISPLAY_ILI9341_240x320_4WSPI_H_	LITERAL1
+LCD320240_WIDTH	LITERAL1
+LCD320240_HEIGHT	LITERAL1
+LCD320240_START_ROW	LITERAL1
+LCD320240_START_COL	LITERAL1
+LCD320240_STOP_ROW	LITERAL1
+LCD320240_STOP_COL	LITERAL1

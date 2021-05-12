@@ -1,0 +1,31 @@
+######################################################################
+# Syntax Coloring Map for SparkFun TMP102 Temperature Sensor Library #
+######################################################################
+# Class
+######################################################################
+
+MicroModButton	KEYWORD1
+
+######################################################################
+# Methods and Functions
+######################################################################
+
+begin	KEYWORD2
+isConnected	KEYWORD2
+deviceID	KEYWORD2
+checkDeviceID	KEYWORD2
+getFirmwareVersion	KEYWORD2
+setI2Caddress	KEYWORD2
+getI2Caddress	KEYWORD2
+getPressed	KEYWORD2
+getClicked	KEYWORD2
+getDebounceTime	KEYWORD2
+setDebounceTime	KEYWORD2
+getPressedInterrupt	KEYWORD2
+getClickedInterrupt	KEYWORD2
+setPressedInterrupt	KEYWORD2
+setClickedInterrupt	KEYWORD2
+readSingleRegister	KEYWORD2
+readDoubleRegister	KEYWORD2
+writeSingleRegister	KEYWORD2
+writeDoubleRegister	KEYWORD2
