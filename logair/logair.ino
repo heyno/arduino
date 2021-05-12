@@ -8,6 +8,7 @@
 #include "SparkFun_Qwiic_OpenLog_Arduino_Library.h"
 #include <SparkFun_RV8803.h>
 #include <SFE_MicroOLED.h> //Click here to get the library: http://librarymanager/All#SparkFun_Micro_OLED
+// Added a comment to see if git picks it up
 
 #define PIN_RESET 9
 #define DC_JUMPER 1
