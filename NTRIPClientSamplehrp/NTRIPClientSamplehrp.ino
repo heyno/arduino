@@ -9,7 +9,7 @@
 //#include <ESP8266WiFi.h>  //Need for ESP8266
 #include <WiFi.h>           //Need for ESP32 
 #include "NTRIPClient.h"
-
+// Another test comment
 const char* ssid     = "Heino's iPad Pro";
 const char* password = "slraslra";
 
