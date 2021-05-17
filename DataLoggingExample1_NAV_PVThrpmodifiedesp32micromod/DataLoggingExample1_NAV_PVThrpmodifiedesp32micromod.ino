@@ -55,6 +55,7 @@ SFE_UBLOX_GNSS myGNSS;
 #include "HyperDisplay_4DLCD-320240_4WSPI.h" // Click here to get the library: https://github.com/sparkfun/HyperDisplay_4DLCD-320240_ArduinoLibrary
                                            // Click here to get the mid-level library: http://librarymanager/All#SparkFun_HyperDisplay_ILI9341
                                            // Click here to get HyperDisplay (top level): http://librarymanager/All#SparkFun_HyperDisplay
+                                           // This is a further comment
 
 #define SERIAL_PORT Serial    // Allows users to easily change target serial port (e.g. SAMD21's SerialUSB)
 
