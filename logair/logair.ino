@@ -18,6 +18,9 @@ RV8803 rtc;
 OpenLog myLog; //Create instance
 #define CCS811_ADDR 0x5B //Default I2C Address
 //#define CCS811_ADDR 0x5A //Alternate I2C Address
+// test
+//Another comment
+
 
 #define PIN_NOT_WAKE 5
 
