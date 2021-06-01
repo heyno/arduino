@@ -20,6 +20,7 @@ OpenLog myLog; //Create instance
 //#define CCS811_ADDR 0x5A //Alternate I2C Address
 // test
 //Another comment
+//Testing a comment from the MAc this is more
 
 
 #define PIN_NOT_WAKE 5
